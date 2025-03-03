@@ -1,0 +1,2 @@
+Log entry from writer 1
+Log entry from writer 2
